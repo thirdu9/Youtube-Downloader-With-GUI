@@ -7,6 +7,5 @@ Can't Download the highest or lowest res
 #yes it is possible tat if u upload videos less than 720p itags change
 #try exploring get_highres function - cant download videos with audio with res higher than 720p
 
-✓Try if __name__ == "__main__"
 
 ✓Delete mp4 audio file
