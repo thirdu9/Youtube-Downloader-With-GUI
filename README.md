@@ -8,4 +8,4 @@ Can't Download the highest or lowest res
 #try exploring get_highres function - cant download videos with audio with res higher than 720p
 
 
-✓Delete mp4 audio file
+✔ Delete mp4 audio file
